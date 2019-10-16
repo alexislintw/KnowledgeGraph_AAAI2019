@@ -1,0 +1,4 @@
+Distributed Community Detection via Metastability of the 2-Choices Dynamics
+Emilio Cruciani@Gran Sasso Science Institute,Emanuele Natale@Max Planck Institute for Informatics,Giacomo Scornavacca@University of L'Aquila
+AAAI Technical Track: Multiagent Systems
+We investigate the behavior of a simple majority dynamics on networks of agents whose interaction topology exhibits a community structure. By leveraging recent advancements in the analysis of dynamics, we prove that, when the states of the nodes are randomly initialized, the system rapidly and stably converges to a configuration in which the communities maintain internal consensus on different states. This is the first analytical result on the behavior of dynamics for nonconsensus problems on non-complete topologies, based on the first symmetry-breaking analysis in such setting.

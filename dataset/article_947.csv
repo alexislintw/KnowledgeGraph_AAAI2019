@@ -1,0 +1,4 @@
+Deep Learning for Cost-Optimal Planning: Task-Dependent Planner Selection
+Silvan Sievers@University of Basel,Michael Katz@IBM Research,Shirin Sohrabi@IBM,Horst Samulowitz@IBM Research,Patrick Ferber@University of Basel
+AAAI Technical Track: Planning, Routing, and Scheduling
+As classical planning is known to be computationally hard, no single planner is expected to work well across many planning domains. One solution to this problem is to use online portfolio planners that select a planner for a given task. These portfolios perform a classification task, a well-known and wellresearched task in the field of machine learning. The classification is usually performed using a representation of planning tasks with a collection of hand-crafted statistical features. Recent techniques in machine learning that are based on automatic extraction of features have not been employed yet due to the lack of suitable representations of planning tasks.

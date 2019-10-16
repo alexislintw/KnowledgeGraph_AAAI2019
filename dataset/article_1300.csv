@@ -1,0 +1,4 @@
+An Improved Hierarchical Datastructure for Nearest Neighbor Search
+Mengdie Nie@Sun Yat-sen University,Zhi-Jie Wang@Sun Yat-sen University,Chunjing Gan@Sun Yat-sen University,Zhe Quan@Hunan University,Bin Yao@Shanghai Jiao Tong University,Jian Yin@Sun Yat-sen University
+Student Abstracts
+Nearest neighbor search is a fundamental computational tool and has wide applications. In past decades, many datastructures have been developed to speed up this operation. In this paper, we propose a novel hierarchical datastructure for nearest neighbor search in moderately high dimension. Our proposed method maintains good run time guarantees, and it outperforms several state-of-the-art methods in practice.

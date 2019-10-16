@@ -1,0 +1,4 @@
+Temporal Planning with Temporal Metric Trajectory Constraints
+Andrea Micheli@Fondazione Bruno Kessler,Enrico Scala@Fondazione Bruno Kessler
+AAAI Technical Track: Planning, Routing, and Scheduling
+In several industrial applications of planning, complex temporal metric trajectory constraints are needed to adequately model the problem at hand. For example, in production plants, items must be processed following a “recipe” of steps subject to precise timing constraints. Modeling such domains is very challenging in existing action-based languages due to the lack of sufficiently expressive trajectory constraints.

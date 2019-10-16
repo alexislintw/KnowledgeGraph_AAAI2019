@@ -1,0 +1,4 @@
+Classifier-Agnostic Saliency Map Extraction
+Konrad Zołna@Jagiellonian University,Krzysztof J. Geras@New York University,Kyunghyun Cho@Jagiellonian University
+Student Abstracts
+Extracting saliency maps, which indicate parts of the image important to classification, requires many tricks to achieve satisfactory performance when using classifier-dependent methods. Instead, we propose classifier-agnostic saliency map extraction. This allows to find all parts of the image that any classifier could use, not just one given in advance. This way we extract much higher quality saliency maps.

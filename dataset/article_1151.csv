@@ -1,0 +1,4 @@
+Automated Dispatch of Helpdesk Email Tickets: Pushing the Limits with AI
+Atri Mandal@IBM Research, India,Nikhil Malhotra@IBM Global Technology Services,Shivali Agarwal@IBM Research, India,Anupama Ray@IBM Research, India,Giriprasad Sridhara@IBM Research, India
+IAAI Technical Papers: Deployed Papers
+Ticket assignment/dispatch is a crucial part of service delivery business with lot of scope for automation and optimization. In this paper, we present an end-to-end automated helpdesk email ticket assignment system, which is also offered as a service. The objective of the system is to determine the nature of the problem mentioned in an incoming email ticket and then automatically dispatch it to an appropriate resolver group (or team) for resolution.

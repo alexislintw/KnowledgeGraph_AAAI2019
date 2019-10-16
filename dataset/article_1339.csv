@@ -1,0 +1,4 @@
+Computing Argumentative Explanations in Bipolar Argumentation Frameworks
+Zhiwei Zeng@NTU-UBC Research Centre of Excellence in Active Living for the Elderly (LILY),Chunyan Miao@NTU-UBC Research Centre of Excellence in Active Living for the Elderly (LILY),Cyril Leung@NTU-UBC Research Centre of Excellence in Active Living for the Elderly (LILY),Zhiqi Shen@NTU-UBC Research Centre of Excellence in Active Living for the Elderly (LILY),Jing Jih Chin@NTU-UBC Research Centre of Excellence in Active Living for the Elderly (LILY)
+Student Abstracts
+The process of arguing is also the process of justifying and explaining. Here, we focus on argumentative explanations in Abstract Bipolar Argumentation. We propose new defence and acceptability semantics, which operates on both attack and support relations, and use them to formalize two types of explanations, concise and strong explanations. We also show how to compute the explanations with Bipolar Dispute Trees.

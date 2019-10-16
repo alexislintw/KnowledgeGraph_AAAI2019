@@ -1,0 +1,4 @@
+VPDS: An AI-Based Automated Vehicle Occupancy and Violation Detection System
+Abhinav Kumar@University of Utah,Aishwarya Gupta@Conduent Labs,Bishal Santra@Indian Institute of Technology,KS Lalitha@Conduent Labs,Manasa Kolla@Conduent Labs,Mayank Gupta@Conduent Labs,Rishabh Singh@Conduent Labs
+IAAI Technical Papers: Emerging Papers
+High Occupancy Vehicle/High Occupancy Tolling (HOV/HOT) lanes are operated based on voluntary HOV declarations by drivers. A majority of these declarations are wrong to leverage faster HOV lane speeds illegally. It is a herculean task to manually regulate HOV lanes and identify these violators. Therefore, an automated way of counting the number of people in a car is prudent for fair tolling and for violator detection.

@@ -1,0 +1,4 @@
+Concept Extraction and Prerequisite Relation Learning from Educational Data
+Weiming Lu@Zhejiang University,Yangfan Zhou@Zhejiang University,Jiale Yu@Zhejiang University,Chenhao Jia@Zhejiang University
+EAAI Symposium Papers: Technical Papers
+Prerequisite relations among concepts are crucial for educational applications. However, it is difficult to automatically extract domain-specific concepts and learn the prerequisite relations among them without labeled data.

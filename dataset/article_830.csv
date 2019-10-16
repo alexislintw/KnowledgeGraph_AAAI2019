@@ -1,0 +1,4 @@
+Contextualized Non-Local Neural Networks for Sequence Learning
+Pengfei Liu@Fudan University,Shuaichen Chang@The Ohio State University,Xuanjing Huang@Fudan University,Jian Tang@University of Montreal,Jackie Chi Kit Cheung@McGill University & The Ohio State University
+AAAI Technical Track: Natural Language Processing
+Recently, a large number of neural mechanisms and models have been proposed for sequence learning, of which selfattention, as exemplified by the Transformer model, and graph neural networks (GNNs) have attracted much attention. In this paper, we propose an approach that combines and draws on the complementary strengths of these two methods. Specifically, we propose contextualized non-local neural networks (CN3), which can both dynamically construct a task-specific structure of a sentence and leverage rich local dependencies within a particular neighbourhood.

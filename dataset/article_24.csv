@@ -1,0 +1,4 @@
+Personalized Question Routing via Heterogeneous Network Embedding
+Zeyu Li@University of California, Los Angeles,Jyun-Yu Jiang@University of California, Los Angeles,Yizhou Sun@University of California, Los Angeles,Wei Wang@University of California, Los Angeles
+AAAI Technical Track: AI and the Web
+Question Routing (QR) on Community-based Question Answering (CQA) websites aims at recommending answerers that have high probabilities of providing the “accepted answers” to new questions. The existing question routing algorithms simply predict the ranking of users based on query content. As a consequence, the question raiser information is ignored. On the other hand, they lack learnable scoring functions to explicitly compute ranking scores.

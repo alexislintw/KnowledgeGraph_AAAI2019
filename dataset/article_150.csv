@@ -1,0 +1,4 @@
+G2C: A Generator-to-Classifier Framework Integrating Multi-Stained Visual Cues for Pathological Glomerulus Classification
+Bingzhe Wu@Peking University,Xiaolu Zhang@Ant Financial Services Group,Shiwan Zhao@IBM Research,Lingxi Xie@Johns Hopkins University,Caihong Zeng@Nanjing University School of Medicine,Zhihong Liu@Nanjing University School of Medicine,Guangyu Sun@Peking University
+AAAI Technical Track: Applications
+Pathological glomerulus classification plays a key role in the diagnosis of nephropathy. As the difference between different subcategories is subtle, doctors often refer to slides from different staining methods to make decisions. However, creating correspondence across various stains is labor-intensive, bringing major difficulties in collecting data and training a vision-based algorithm to assist nephropathy diagnosis.

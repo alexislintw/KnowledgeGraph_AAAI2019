@@ -1,0 +1,4 @@
+APRP: An Anonymous Propagation Method in Bitcoin Network
+Yuhang Yao@Shanghai Jiao Tong University,Xiao Zeng@Shanghai Jiao Tong University,Tianyue Cao@Shanghai Jiao Tong University,Luoyi Fu@Shanghai Jiao Tong University,Xinbing Wang@Shanghai Jiao Tong University
+Student Abstracts
+Due to little attention given to anonymous protection against eavesdropping attacks in Bitcoin network, this paper initiatively proposes a solution to Bitcoin anonymization based on network structure. We first present a general adversarial network model for formulizing deanonymization attack, then present a novel propagation method APRP(Adaptive PageRank Propagation) that adopts PageRank as propagation delay factor and constantly adjusts PR-value of nodes to adapt to network dynamics. Experiments on both simulated and real Bitcoin networks confirm the superiority of APRP in terms of 20-50% performance enhancement under various deanonymization attacks.

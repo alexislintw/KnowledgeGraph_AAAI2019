@@ -1,0 +1,4 @@
+Fair Division with a Secretive Agent
+Eshwar Ram Arunachaleswaran@Indian Institute of Science,Siddharth Barman@Indian Institute of Science,Nidhi Rathi@Indian Institute of Science
+AAAI Technical Track: Game Theory and Economic Paradigms
+We study classic fair-division problems in a partial information setting. This paper respectively addresses fair division of rent, cake, and indivisible goods among agents with cardinal preferences. We will show that, for all of these settings and under appropriate valuations, a fair (or an approximately fair) division among n agents can be efficiently computed using only the valuations of n − 1 agents. The nth (secretive) agent can make an arbitrary selection after the division has been proposed and, irrespective of her choice, the computed division will admit an overall fair allocation.

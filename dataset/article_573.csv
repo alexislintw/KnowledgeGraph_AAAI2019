@@ -1,0 +1,4 @@
+Policy Optimization with Model-Based Explorations
+Feiyang Pan@Chinese Academy of Sciences,Qingpeng Cai@Tsinghua University,An-Xiang Zeng@Alibaba,Chun-Xiang Pan@Alibaba Group,Qing Da@Alibaba Group,Hualin He@Alibaba Group,Qing He@Chinese Academy of Sciences,Pingzhong Tang@Tsinghua University
+AAAI Technical Track: Machine Learning
+Model-free reinforcement learning methods such as the Proximal Policy Optimization algorithm (PPO) have successfully applied in complex decision-making problems such as Atari games. However, these methods suffer from high variances and high sample complexity. On the other hand, model-based reinforcement learning methods that learn the transition dynamics are more sample efficient, but they often suffer from the bias of the transition estimation. How to make use of both model-based and model-free learning is a central problem in reinforcement learning.

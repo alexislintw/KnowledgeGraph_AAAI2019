@@ -1,0 +1,4 @@
+Robust Facial Landmark Localization Based on Two-Stage Cascaded Pose Regression
+Ziye Tong@Wuhan University of Technology,Junwei Zhou@Wuhan University of Technology,Yanchao Yang@Wuhan University of Technology,Lee-Ming Cheng@University of Hong Kong
+Student Abstracts
+In this paper, we propose a two-stage cascaded pose regression for facial landmark localization under occlusion. In the first stage, a global cascaded pose regression with robust initialization is performed to get localization results for the original face and its mirror image. The localization difference between the original image and the mirror image is used to determine whether the localization of each landmark is reliable, while unreliable localization with a large difference can be adjusted. In the second stage, the global results are divided into four parts, which are further refined by local regressions. Finally, the four refined local results are integrated and adjusted to get the final output.

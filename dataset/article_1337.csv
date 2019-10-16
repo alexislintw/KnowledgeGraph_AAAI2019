@@ -1,0 +1,4 @@
+Sequence to Sequence Learning for Query Expansion
+Salah Zaiem@Ecole Polytechnique Palaiseau,Fatiha Sadat@Université du Québec à Montréal
+Student Abstracts
+As fas as we are aware, using Sequence to Sequence algorithms for query expansion has not been explored yet in Information Retrieval literature. We tried to fill this gap in the literature with a custom Query Expansion system trained and tested on open datasets. One specificity of our engine compared to classic ones is that it does not need the documents to expand the introduced query. We test our expansions on two different tasks : Information Retrieval and Answer preselection. Our method yielded a slight improvement in performance in both two tasks . Our main contributions are :

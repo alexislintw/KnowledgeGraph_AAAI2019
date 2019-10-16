@@ -1,0 +1,4 @@
+Predicting and Analyzing Language Specificity in Social Media Posts
+Yifan Gao@University of Texas at Austin,Yang Zhong@University of Texas at Austin,Daniel Preoţiuc-Pietro@University of Pennsylvania,Junyi Jessy Li@University of Texas at Austin
+AAAI Technical Track: Natural Language Processing
+In computational linguistics, specificity quantifies how much detail is engaged in text. It is an important characteristic of speaker intention and language style, and is useful in NLP applications such as summarization and argumentation mining. Yet to date, expert-annotated data for sentence-level specificity are scarce and confined to the news genre. In addition, systems that predict sentence specificity are classifiers trained to produce binary labels (general or specific).

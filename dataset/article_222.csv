@@ -1,0 +1,4 @@
+Primarily about Primaries
+Allan Borodin@University of Toronto,Omer Lev@Ben-Gurion University University,Nisarg Shah@University of Toronto,Tyrone Strangway@University of Toronto
+AAAI Technical Track: Game Theory and Economic Paradigms
+Much of the social choice literature examines direct voting systems, in which voters submit their ranked preferences over candidates and a voting rule picks a winner. Real-world elections and decision-making processes are often more complex and involve multiple stages. For instance, one popular voting system filters candidates through primaries: first, voters affiliated with each political party vote over candidates of their own party and the voting rule picks a candidate from each party, which then compete in a general election.

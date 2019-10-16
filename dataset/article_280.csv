@@ -1,0 +1,4 @@
+Greedy Maximization of Functions with Bounded Curvature under Partition Matroid Constraints
+Tobias Friedrich@Hasso Plattner Institute,Andreas Göbel@Hasso Plattner Institute,Frank Neumann@The University of Adelaide,Francesco Quinzan@Hasso Plattner Institute,Ralf Rothenberger@Hasso Plattner Institute
+AAAI Technical Track: Heuristic Search and Optimization
+We investigate the performance of a deterministic GREEDY algorithm for the problem of maximizing functions under a partition matroid constraint. We consider non-monotone submodular functions and monotone subadditive functions. Even though constrained maximization problems of monotone submodular functions have been extensively studied, little is known about greedy maximization of non-monotone submodular functions or monotone subadditive functions.

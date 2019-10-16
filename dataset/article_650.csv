@@ -1,0 +1,4 @@
+A Sharper Generalization Bound for Divide-and-Conquer Ridge Regression
+Shusen Wang@Stevens Institute of Technology
+AAAI Technical Track: Machine Learning
+We study the distributed machine learning problem where the n feature-response pairs are partitioned among m machines uniformly at random. The goal is to approximately solve an empirical risk minimization (ERM) problem with the minimum amount of communication. The divide-and-conquer (DC) method, which was proposed several years ago, lets every worker machine independently solve the same ERM problem using its local feature-response pairs and the driver machine combine the solutions. This approach is in one-shot and thereby extremely communication-efficient. Although the DC method has been studied by many prior works, reasonable generalization bound has not been established before this work.

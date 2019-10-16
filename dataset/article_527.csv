@@ -1,0 +1,4 @@
+Non-Compensatory Psychological Models for Recommender Systems
+Chen Lin@Xiamen University,Xiaolin Shen@Xiamen University,Si Chen@Xiamen University,Muhua Zhu@Alibaba Group,Yanghua Xiao@Fudan University
+AAAI Technical Track: Machine Learning
+The study of consumer psychology reveals two categories of consumption decision procedures: compensatory rules and non-compensatory rules. Existing recommendation models which are based on latent factor models assume the consumers follow the compensatory rules, i.e. they evaluate an item over multiple aspects and compute a weighted or/and summated score which is used to derive the rating or ranking of the item. However, it has been shown in the literature of consumer behavior that, consumers adopt non-compensatory rules more often than compensatory rules. Our main contribution in this paper is to study the unexplored area of utilizing non-compensatory rules in recommendation models.

@@ -1,0 +1,4 @@
+Outlier Aware Network Embedding for Attributed Networks
+Sambaran Bandyopadhyay@IBM Research,N. Lokesh@Indian Institute of Science,M. N. Murty@Indian Institute of Science
+AAAI Technical Track: AI and the Web
+Attributed network embedding has received much interest from the research community as most of the networks come with some content in each node, which is also known as node attributes. Existing attributed network approaches work well when the network is consistent in structure and attributes, and nodes behave as expected. But real world networks often have anomalous nodes. Typically these outliers, being relatively unexplainable, affect the embeddings of other nodes in the network. Thus all the downstream network mining tasks fail miserably in the presence of such outliers. Hence an integrated approach to detect anomalies and reduce their overall effect on the network embedding is required.

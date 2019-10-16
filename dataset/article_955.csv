@@ -1,0 +1,4 @@
+On the Hardness of Probabilistic Inference Relaxations
+Supratik Chakraborty@Indian Institute of Technology Bombay,Kuldeep S. Meel@National University of Singapore,Moshe Y. Vardi@Rice University
+AAAI Technical Track: Reasoning under Uncertainty
+A promising approach to probabilistic inference that has attracted recent attention exploits its reduction to a set of model counting queries. Since probabilistic inference and model counting are #P-hard, various relaxations are used in practice, with the hope that these relaxations allow efficient computation while also providing rigorous approximation guarantees.

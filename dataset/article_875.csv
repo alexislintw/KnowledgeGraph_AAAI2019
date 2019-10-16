@@ -1,0 +1,4 @@
+Improving Hypernymy Prediction via Taxonomy Enhanced Adversarial Learning
+Chengyu Wang@East China Normal University,Xiaofeng He@East China Normal University,Aoying Zhou@East China Normal University
+AAAI Technical Track: Natural Language Processing
+Hypernymy is a basic semantic relation in computational linguistics that expresses the “is-a” relation between a generic concept and its specific instances, serving as the backbone in taxonomies and ontologies. Although several NLP tasks related to hypernymy prediction have been extensively addressed, few methods have fully exploited the large number of hypernymy relations in Web-scale taxonomies.

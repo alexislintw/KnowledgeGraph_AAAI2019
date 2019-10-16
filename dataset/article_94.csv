@@ -1,0 +1,4 @@
+Forbidden Nodes Aware Community Search
+Chaokun Wang@Tsinghua University,Junchao Zhu@Tsinghua University
+AAAI Technical Track: AI for Social Impact
+Community search is an important problem in network analysis, which has attracted much attention in recent years. It starts with some given nodes, pays more attention to local network structures, and gets personalized resultant communities quickly. In this paper, we argue that there are many real scenarios where some nodes are not allowed to appear in the community. Then, we introduce a new concept called forbidden nodes and present a new problem of forbidden nodes aware community search to describe these scenarios.

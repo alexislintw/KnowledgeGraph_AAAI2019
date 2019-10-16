@@ -1,0 +1,4 @@
+Meta-Path Augmented Response Generation
+Yanran Li@The Hong Kong Polytechnic University,Wenjie Li@The Hong Kong Polytechnic University
+Student Abstracts
+We propose a chatbot, namely MOCHA to make good use of relevant entities when generating responses. Augmented with meta-path information, MOCHA is able to mention proper entities following the conversation flow.

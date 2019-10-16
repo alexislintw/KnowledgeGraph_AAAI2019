@@ -1,0 +1,4 @@
+Scene Text Detection with Supervised Pyramid Context Network
+Enze Xie@Tongji University,Yuhang Zang@University of Electronic Science and Technology of China,Shuai Shao@Face++,Gang Yu@Face++,Cong Yao@Megvii,Guangyao Li@Tongji University
+AAAI Technical Track: Vision
+Scene text detection methods based on deep learning have achieved remarkable results over the past years. However, due to the high diversity and complexity of natural scenes, previous state-of-the-art text detection methods may still produce a considerable amount of false positives, when applied to images captured in real-world environments. To tackle this issue, mainly inspired by Mask R-CNN, we propose in this paper an effective model for scene text detection, which is based on Feature Pyramid Network (FPN) and instance segmentation. We propose a supervised pyramid context network (SPCNET) to precisely locate text regions while suppressing false positives.

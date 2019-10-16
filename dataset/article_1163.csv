@@ -1,0 +1,4 @@
+Automatic Generation of Chinese Short Product Titles for Mobile Display
+Yu Gong@Alibaba Group,Xusheng Luo@Alibaba Group,Kenny Q. Zhu@Shanghai Jiao Tong University,Wenwu Ou@Alibaba Group,Zhao Li@Alibaba Group,Lu Duan@Zhejiang Cainiao Supply Chain Management Co., Ltd
+IAAI Technical Papers: Emerging Papers
+This paper studies the problem of automatically extracting a short title from a manually written longer description of Ecommerce products for display on mobile devices. It is a new extractive summarization problem on short text inputs, for which we propose a feature-enriched network model, combining three different categories of features in parallel. Experimental results show that our framework significantly outperforms several baselines by a substantial gain of 4.5%. Moreover, we produce an extractive summarization dataset for Ecommerce short texts and will release it to the research community.

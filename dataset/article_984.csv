@@ -1,0 +1,4 @@
+Mirroring without Overimitation: Learning Functionally Equivalent Manipulation Actions
+Hangxin Liu@University of California, Los Angeles,Chi Zhang@University of California, Los Angeles,Yixin Zhu@University of California, Los Angeles,Chenfanfu Jiang@University of Pennsylvania,Song-Chun Zhu@University of California, Los Angeles
+AAAI Technical Track: Robotics
+This paper presents a mirroring approach, inspired by the neuroscience discovery of the mirror neurons, to transfer demonstrated manipulation actions to robots. Designed to address the different embodiments between a human (demonstrator) and a robot, this approach extends the classic robot Learning from Demonstration (LfD) in the following aspects:

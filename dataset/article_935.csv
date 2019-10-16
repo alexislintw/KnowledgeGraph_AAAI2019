@@ -1,0 +1,4 @@
+Red-Black Heuristics for Planning Tasks with Conditional Effects
+Michael Katz@IBM Research
+AAAI Technical Track: Planning, Routing, and Scheduling
+Red-black planning is a state-of-the-art approach to satisficing classical planning. Red-black planning heuristics are at the heart of the planner Mercury, the runner-up of a satisficing track in the International Planning Competition (IPC) 2014 and a major component of four additional planners in IPC 2018, including Saarplan, the runner-up in the agile track. Mercury’s exceptional performance is amplified by the fact that conditional effects were handled by the planner in a trivial way, simply by compiling them away. Conditional effects, however, are important for classical planning, and many domains require them for efficient modeling.

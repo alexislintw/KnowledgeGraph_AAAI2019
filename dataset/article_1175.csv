@@ -1,0 +1,4 @@
+Context-Tree Recommendation vs Matrix-Factorization: Algorithm Selection and Live Users Evaluation
+Stéphane Martin@École Polytechnique Fédérale de Lausanne,Boi Faltings@École Polytechnique Fédérale de Lausanne,Vincent Schickel@Prediggo SA
+IAAI Technical Papers: Emerging Papers
+We describe the selection, implementation and online evaluation of two e-commerce recommender systems developed with our partner company, Prediggo. The first one is based on the novel method of Bayesian Variable-order Markov Modeling (BVMM). The second, SSAGD, is a novel variant of the Matrix-Factorization technique (MF), which is considered state-of-the-art in the recommender literature.

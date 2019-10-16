@@ -1,0 +1,4 @@
+Demo: Learning to Perceive Long-Range Obstacles Using Self-Supervision from Short-Range Sensors
+Mirko Nava@Dalle Molle Institute for Artificial Intelligence,Jérôme Guzzi@Dalle Molle Institute for Artificial Intelligence,R. Omar Chavez-Garcia@Dalle Molle Institute for Artificial Intelligence,Luca M. Gambardella@Dalle Molle Institute for Artificial Intelligence,Alessandro Giusti@Dalle Molle Institute for Artificial Intelligence
+Demonstration Track Abstracts
+We demonstrate a self-supervised approach which learns to detect long-range obstacles from video: it automatically obtains training labels by associating the camera frames acquired at a given pose to short-range sensor readings acquired at a different pose.

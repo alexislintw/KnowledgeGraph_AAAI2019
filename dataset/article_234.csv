@@ -1,0 +1,4 @@
+Approximation and Hardness of Shift-Bribery
+Piotr Faliszewski@AGH Krakow,Pasin Manurangsi@University of California, Berkeley,Krzysztof Sornat@University of Wrocław
+AAAI Technical Track: Game Theory and Economic Paradigms
+In the SHIFT-BRIBERY problem we are given an election, a preferred candidate, and the costs of shifting this preferred candidate up the voters’ preference orders. The goal is to find such a set of shifts that ensures that the preferred candidate wins the election. We give the first polynomial-time approximation scheme for the case of positional scoring rules, and for the Copeland rule we show strong inapproximability results.

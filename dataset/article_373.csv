@@ -1,0 +1,4 @@
+An Open-World Extension to Knowledge Graph Completion Models
+Haseeb Shah@National University of Sciences and Technology,Johannes Villmow@RheinMain University of Applied Sciences,Adrian Ulges@RheinMain University of Applied Sciences,Ulrich Schwanecke@RheinMain University of Applied Sciences,Faisal Shafait@National University of Sciences and Technology
+AAAI Technical Track: Knowledge Representation and Reasoning
+We present a novel extension to embedding-based knowledge graph completion models which enables them to perform open-world link prediction, i.e. to predict facts for entities unseen in training based on their textual description. Our model combines a regular link prediction model learned from a knowledge graph with word embeddings learned from a textual corpus. After training both independently, we learn a transformation to map the embeddings of an entity’s name and description to the graph-based embedding space.

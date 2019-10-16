@@ -1,0 +1,4 @@
+On Rational Delegations in Liquid Democracy
+Daan Bloembergen@Centrum Wiskunde,Davide Grossi@Universiteit van Groningen,Martin Lackner@Technische Universität Wien
+AAAI Technical Track: Game Theory and Economic Paradigms
+Liquid democracy is a proxy voting method where proxies are delegable. We propose and study a game-theoretic model of liquid democracy to address the following question: when is it rational for a voter to delegate her vote? We study the existence of pure-strategy Nash equilibria in this model, and how group accuracy is affected by them. We complement these theoretical results by means of agent-based simulations to study the effects of delegations on group’s accuracy on variously structured social networks.

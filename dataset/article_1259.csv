@@ -1,0 +1,4 @@
+Building Human-Machine Trust via Interpretability
+Umang Bhatt@Carnegie Mellon University,Pradeep Ravikumar@Carnegie Mellon University,Jos´e M. F. Moura@Carnegie Mellon University
+Student Abstracts
+Developing human-machine trust is a prerequisite for adoption of machine learning systems in decision critical settings (e.g healthcare and governance). Users develop appropriate trust in these systems when they understand how the systems make their decisions. Interpretability not only helps users understand what a system learns but also helps users contest that system to align with their intuition. We propose an algorithm, AVA: Aggregate Valuation of Antecedents, that generates a consensus feature attribution, retrieving local explanations and capturing global patterns learned by a model. Our empirical results show that AVA rivals current benchmarks.

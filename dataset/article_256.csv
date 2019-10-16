@@ -1,0 +1,4 @@
+Heuristic Voting as Ordinal Dominance Strategies
+Omer Lev@Ben-Gurion University,Reshef Meir@Technion – Israel Institute of Technology,Svetlana Obraztsova@Nanyang Technological University,Maria Polukarov@King's College London
+AAAI Technical Track: Game Theory and Economic Paradigms
+Decision making under uncertainty is a key component of many AI settings, and in particular of voting scenarios where strategic agents are trying to reach a joint decision. The common approach to handle uncertainty is by maximizing expected utility, which requires a cardinal utility function as well as detailed probabilistic information. However, often such probabilities are not easy to estimate or apply.

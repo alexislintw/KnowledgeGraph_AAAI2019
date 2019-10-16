@@ -1,0 +1,4 @@
+Cost-Sensitive Learning to Rank
+Ryan McBride@Simon Fraser University,Ke Wang@Simon Fraser University,Zhouyang Ren@Chongqing University,Wenyuan Li@Chongqing University
+AAAI Technical Track: Machine Learning
+We formulate the Cost-Sensitive Learning to Rank problem of learning to prioritize limited resources to mitigate the most costly outcomes. We develop improved ranking models to solve this problem, as verified by experiments in diverse domains such as forest fire prevention, crime prevention, and preventing storm caused outages in electrical networks.

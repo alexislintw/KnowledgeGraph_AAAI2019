@@ -1,0 +1,4 @@
+Robustness Envelopes for Temporal Plans
+Michael Cashmore@King's College London,Alessandro Cimatti@Fondazione Bruno Kessler,Daniele Magazzeni@King's College London,Andrea Micheli@Fondazione Bruno Kessler,Parisa Zehtabi@King's College London
+AAAI Technical Track: Planning, Routing, and Scheduling
+To achieve practical execution, planners must produce temporal plans with some degree of run-time adaptability. Such plans can be expressed as Simple Temporal Networks (STN), that constrain the timing of action activations, and implicitly represent the space of choices for the plan executor.

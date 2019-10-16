@@ -1,0 +1,4 @@
+Recursively Learning Causal Structures Using Regression-Based Conditional Independence Test
+Hao Zhang@Fudan University,Shuigeng Zhou@Fudan University,Chuanxu Yan@Fudan University,Jihong Guan@Tongji University,Xin Wang@University of Calgary
+AAAI Technical Track: Knowledge Representation and Reasoning
+This paper addresses two important issues in causality inference. One is how to reduce redundant conditional independence (CI) tests, which heavily impact the efficiency and accuracy of existing constraint-based methods. Another is how to construct the true causal graph from a set of Markov equivalence classes returned by these methods.

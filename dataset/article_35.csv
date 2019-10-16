@@ -1,0 +1,4 @@
+Meimei: An Efficient Probabilistic Approach for Semantically Annotating Tables
+Kunihiro Takeoka@NEC Corporation,Masafumi Oyamada@NEC Corporation,Shinji Nakadai@NEC Corporation,Takeshi Okadome@Kwansei Gakuin University
+AAAI Technical Track: AI and the Web
+Given a large amount of table data, how can we find the tables that contain the contents we want? A naive search fails when the column names are ambiguous, such as if columns containing stock price information are named “Close” in one table and named “P” in another table.

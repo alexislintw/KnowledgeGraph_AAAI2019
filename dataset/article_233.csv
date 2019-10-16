@@ -1,0 +1,4 @@
+Random Dictators with a Random Referee: Constant Sample Complexity Mechanisms for Social Choice
+Brandon Fain@Duke University,Ashish Goel@Stanford University,Kamesh Munagala@Duke University,Nina Prabhu@North Carolina School of Science and Mathematics
+AAAI Technical Track: Game Theory and Economic Paradigms
+We study social choice mechanisms in an implicit utilitarian framework with a metric constraint, where the goal is to minimize Distortion, the worst case social cost of an ordinal mechanism relative to underlying cardinal utilities. We consider two additional desiderata: Constant sample complexity and Squared Distortion. Constant sample complexity means that the mechanism (potentially randomized) only uses a constant number of ordinal queries regardless of the number of voters and alternatives. Squared Distortion is a measure of variance of the Distortion of a randomized mechanism.

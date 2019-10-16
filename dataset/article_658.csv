@@ -1,0 +1,4 @@
+Universal Approximation Property and Equivalence of Stochastic Computing-Based Neural Networks and Binary Neural Networks
+Yanzhi Wang@Northeastern University,Zheng Zhan@Syracuse University,Liang Zhao@Syracuse University,Jian Tang@Syracuse University,Siyue Wang@Northeastern University,Jiayu Li@Syracuse University,Bo Yuan@Rutgers University,Wujie Wen@Florida International University,Xue Lin@Northeastern University
+AAAI Technical Track: Machine Learning
+Large-scale deep neural networks are both memory and computation-intensive, thereby posing stringent requirements on the computing platforms. Hardware accelerations of deep neural networks have been extensively investigated. Specific forms of binary neural networks (BNNs) and stochastic computing-based neural networks (SCNNs) are particularly appealing to hardware implementations since they can be implemented almost entirely with binary operations.

@@ -1,0 +1,4 @@
+Depth Prediction without the Sensors: Leveraging Structure for Unsupervised Learning from Monocular Videos
+Vincent Casser@Harvard University,Soeren Pirk@Google,Reza Mahjourian@University of Texas at Austin,Anelia Angelova@Google
+AAAI Technical Track: Robotics
+Learning to predict scene depth from RGB inputs is a challenging task both for indoor and outdoor robot navigation. In this work we address unsupervised learning of scene depth and robot ego-motion where supervision is provided by monocular videos, as cameras are the cheapest, least restrictive and most ubiquitous sensor for robotics.

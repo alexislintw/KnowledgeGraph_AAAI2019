@@ -1,0 +1,4 @@
+Consensus in Opinion Formation Processes in Fully Evolving Environments
+Vincenzo Auletta@Università di Salerno,Angelo Fanelli@Centre National de la Recherche Scientifique,Diodato Ferraioli@Università di Salerno
+AAAI Technical Track: Multiagent Systems
+Friedkin and Johnsen (1990) modeled opinion formation in social networks as a dynamic process which evolves in rounds: at each round each agent updates her expressed opinion to a weighted average of her innate belief and the opinions expressed in the previous round by her social neighbors. The stubbornness level of an agent represents the tendency of the agent to express an opinion close to her innate belief.

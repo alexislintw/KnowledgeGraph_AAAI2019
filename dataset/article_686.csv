@@ -1,0 +1,4 @@
+Frame and Feature-Context Video Super-Resolution
+Bo Yan@Fudan University,Chuming Lin@Fudan University,Weimin Tan@Fudan University
+AAAI Technical Track: Machine Learning
+For video super-resolution, current state-of-the-art approaches either process multiple low-resolution (LR) frames to produce each output high-resolution (HR) frame separately in a sliding window fashion or recurrently exploit the previously estimated HR frames to super-resolve the following frame. The main weaknesses of these approaches are: 1) separately generating each output frame may obtain high-quality HR estimates while resulting in unsatisfactory flickering artifacts, and 2) combining previously generated HR frames can produce temporally consistent results in the case of short information flow, but it will cause significant jitter and jagged artifacts because the previous super-resolving errors are constantly accumulated to the subsequent frames.

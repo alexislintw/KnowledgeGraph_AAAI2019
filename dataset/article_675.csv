@@ -1,0 +1,4 @@
+Multi-View Multi-Instance Multi-Label Learning Based on Collaborative Matrix Factorization
+Yuying Xing@Southwest University,Guoxian Yu@Southwest University,Carlotta Domeniconi@George Mason University,Jun Wang@Southwest University,Zili Zhang@Southwest University,Maozu Guo@Beijing University of Civil Engineering and Architecture
+AAAI Technical Track: Machine Learning
+Multi-view Multi-instance Multi-label Learning (M3L) deals with complex objects encompassing diverse instances, represented with different feature views, and annotated with multiple labels. Existing M3L solutions only partially explore the inter or intra relations between objects (or bags), instances, and labels, which can convey important contextual information for M3L. As such, they may have a compromised performance.\

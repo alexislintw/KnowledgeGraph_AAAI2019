@@ -1,0 +1,4 @@
+Verifying Robustness of Gradient Boosted Models
+Gil Einziger@Nokia Bell Labs,Maayan Goldstein@Nokia Bell Labs,Yaniv Sa’ar@Nokia Bell Labs,Itai Segall@Nokia Bell Labs
+AAAI Technical Track: Human-AI Collaboration
+Gradient boosted models are a fundamental machine learning technique. Robustness to small perturbations of the input is an important quality measure for machine learning models, but the literature lacks a method to prove the robustness of gradient boosted models.

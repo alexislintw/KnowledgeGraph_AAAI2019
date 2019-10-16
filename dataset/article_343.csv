@@ -1,0 +1,4 @@
+On Structured Argumentation with Conditional Preferences
+Phan Minh Dung@Asian Institute of Technologies,Phan Minh Thang@Burapha University International College,Tran Cao Son@New Mexico State University
+AAAI Technical Track: Knowledge Representation and Reasoning
+We study defeasible knowledge bases with conditional preferences (DKB). A DKB consists of a set of undisputed facts and a rule-based system that contains different types of rules: strict, defeasible, and preference. A major challenge in defining the semantics of DKB lies in determining how conditional preferences interact with the attack relations represented by rebuts and undercuts, between arguments.

@@ -1,0 +1,4 @@
+Object Detection Based on Region Decomposition and Assembly
+Seung-Hwan Bae@Incheon National University
+AAAI Technical Track: Vision
+Region-based object detection infers object regions for one or more categories in an image. Due to the recent advances in deep learning and region proposal methods, object detectors based on convolutional neural networks (CNNs) have been flourishing and provided the promising detection results. However, the detection accuracy is degraded often because of the low discriminability of object CNN features caused by occlusions and inaccurate region proposals. In this paper, we therefore propose a region decomposition and assembly detector (R-DAD) for more accurate object detection.

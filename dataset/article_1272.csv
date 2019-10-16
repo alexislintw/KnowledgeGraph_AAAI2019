@@ -1,0 +1,4 @@
+Higher-Order Multi-Layer Community Detection
+Ling Huang@Sun Yat-sen University,Chang-Dong Wang@Sun Yat-sen University,Hong-Yang Chao@Sun Yat-sen University
+Student Abstracts
+In this paper, we define a new problem of multi-layer network community detection, namely higher-order multi-layer community detection. A multi-layer motif (M-Motif) approach is proposed, which discovers communities with good intralayer higher-order community quality while preserving interlayer higher-order community consistency. Experimental results have confirmed the superiority of the proposed method.

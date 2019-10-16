@@ -1,0 +1,4 @@
+Melding the Data-Decisions Pipeline: Decision-Focused Learning for Combinatorial Optimization
+Bryan Wilder@University of Southern California,Bistra Dilkina@University of Southern California,Milind Tambe@University of Southern California
+AAAI Technical Track: Constraint Satisfaction and Optimization
+Creating impact in real-world settings requires artificial intelligence techniques to span the full pipeline from data, to predictive models, to decisions. These components are typically approached separately: a machine learning model is first trained via a measure of predictive accuracy, and then its predictions are used as input into an optimization algorithm which produces a decision. However, the loss function used to train the model may easily be misaligned with the end goal, which is to make the best decisions possible. Hand-tuning the loss function to align with optimization is a difficult and error-prone process (which is often skipped entirely).

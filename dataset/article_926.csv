@@ -1,0 +1,4 @@
+Improving Domain-Independent Planning via Critical Section Macro-Operators
+Lukáš Chrpa@Czech Technical University in Prague,Mauro Vallati@University of Uddersfield
+AAAI Technical Track: Planning, Routing, and Scheduling
+Macro-operators, macros for short, are a well-known technique for enhancing performance of planning engines by providing “short-cuts” in the state space. Existing macro learning systems usually generate macros from most frequent sequences of actions in training plans. Such approach priorities frequently used sequences of actions over meaningful activities to be performed for solving planning tasks.

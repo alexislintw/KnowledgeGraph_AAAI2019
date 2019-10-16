@@ -1,0 +1,4 @@
+On-Line Learning of Linear Dynamical Systems: Exponential Forgetting in Kalman Filters
+Mark Kozdoba@Technion – Israel Institute of Technology,Jakub Marecek@IBM Research,Tigran Tchrakian@IBM Research,Shie Mannor@Technion – Israel Institute of Technology
+AAAI Technical Track: Machine Learning
+The Kalman filter is a key tool for time-series forecasting and analysis. We show that the dependence of a prediction of Kalman filter on the past is decaying exponentially, whenever the process noise is non-degenerate. Therefore, Kalman filter may be approximated by regression on a few recent observations. Surprisingly, we also show that having some process noise is essential for the exponential decay. With no process noise, it may happen that the forecast depends on all of the past uniformly, which makes forecasting more difficult.

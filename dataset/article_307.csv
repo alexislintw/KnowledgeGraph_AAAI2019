@@ -1,0 +1,4 @@
+Deep Neural Networks Constrained by Decision Rules
+Yuzuru Okajima@NEC Corporation,Kunihiko Sadamasa@NEC Corporation
+AAAI Technical Track: Human-AI Collaboration
+Deep neural networks achieve high predictive accuracy by learning latent representations of complex data. However, the reasoning behind their decisions is difficult for humans to understand. On the other hand, rule-based approaches are able to justify the decisions by showing the decision rules leading to them, but they have relatively low accuracy. To improve the interpretability of neural networks, several techniques provide post-hoc explanations of decisions made by neural networks, but they cannot guarantee that the decisions are always explained in a simple form like decision rules because their explanations are generated after the decisions are made by neural networks.

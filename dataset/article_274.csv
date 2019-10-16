@@ -1,0 +1,4 @@
+A Unified Approach to Online Matching with Conflict-Aware Constraints
+Pan Xu@University of Maryland,Yexuan Shi@Beihang University,Hao Cheng@Beihang University,John Dickerson@University of Maryland,Karthik Abinav Sankararaman@University of Maryland College Park,Aravind Srinivasan@University of Maryland College Park,Yongxin Tong@Beihang University,Leonidas Tsepenekas@University of Maryland
+AAAI Technical Track: Game Theory and Economic Paradigms
+Online bipartite matching and allocation models are widely used to analyze and design markets such as Internet advertising, online labor, and crowdsourcing. Traditionally, vertices on one side of the market are fixed and known a priori, while vertices on the other side arrive online and are matched by a central agent to the offline side. The issue of possible conflicts among offline agents emerges in various real scenarios when we need to match each online agent with a set of offline agents.

@@ -1,0 +1,4 @@
+Near-Neighbor Methods in Random Preference Completion
+Ao Liu@Rensselaer Polytechnic Institute,Qiong Wu@College of William and Mary,Zhenming Liu@College of William and Mary,Lirong Xia@Rensselaer Polytechnic Institute
+AAAI Technical Track: Machine Learning
+This paper studies a stylized, yet natural, learning-to-rank problem and points out the critical incorrectness of a widely used nearest neighbor algorithm. We consider a model with n agents (users) {xi}i∈[n] and m alternatives (items) {yl}l∈[m], each of which is associated with a latent feature vector. Agents rank items nondeterministically according to the Plackett-Luce model, where the higher the utility of an item to the agent, the more likely this item will be ranked high by the agent. Our goal is to identify near neighbors of an arbitrary agent in the latent space for prediction.

@@ -1,0 +1,4 @@
+Dynamic Explainable Recommendation Based on Neural Attentive Models
+Xu Chen@Tsinghua University,Yongfeng Zhang@Rutgers University,Zheng Qin@Tsinghua University
+AAAI Technical Track: AI and the Web
+Providing explanations in a recommender system is getting more and more attention in both industry and research communities. Most existing explainable recommender models regard user preferences as invariant to generate static explanations. However, in real scenarios, a user’s preference is always dynamic, and she may be interested in different product features at different states. The mismatching between the explanation and user preference may degrade costumers’ satisfaction, confidence and trust for the recommender system.

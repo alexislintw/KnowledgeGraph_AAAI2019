@@ -1,0 +1,4 @@
+Consensual Affine Transformations for Partial Valuation Aggregation
+Hermann Schichl@University of Vienna,Meinolf Sellmann@General Electric
+AAAI Technical Track: Humans and AI
+We consider the task of aggregating scores provided by experts that each have scored only a subset of all objects to be rated. Since experts only see a subset of all objects, they lack global information on the overall quality of all objects, as well as the global range in quality. Inherently, the only reliable information we get from experts is therefore the relative scores over the objects that they have scored each.

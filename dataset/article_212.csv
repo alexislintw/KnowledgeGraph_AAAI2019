@@ -1,0 +1,4 @@
+The Pure Price of Anarchy of Pool Block Withholding Attacks in Bitcoin Mining
+Colleen Alkalay-Houlihan@University of Toronto,Nisarg Shah@University of Toronto
+AAAI Technical Track: Game Theory and Economic Paradigms
+Bitcoin, a cryptocurrency built on the blockchain data structure, has generated significant academic and commercial interest. Contrary to prior expectations, recent research has shown that participants of the protocol (the so-called “miners”) are not always incentivized to follow the protocol. We study the game induced by one such attack – the pool block withholding attack – in which mining pools (groups of miners) attack other mining pools. We focus on the case of two pools attacking each other, with potentially other mining power in the system.

@@ -1,0 +1,4 @@
+The Curse of Concentration in Robust Learning: Evasion and Poisoning Attacks from Concentration of Measure
+Saeed Mahloujifar@University of Virginia,Dimitrios I. Diochnos@University of Virginia,Mohammad Mahmoody@University of Virginia
+AAAI Technical Track: Machine Learning
+Many modern machine learning classifiers are shown to be vulnerable to adversarial perturbations of the instances. Despite a massive amount of work focusing on making classifiers robust, the task seems quite challenging. In this work, through a theoretical study, we investigate the adversarial risk and robustness of classifiers and draw a connection to the well-known phenomenon of “concentration of measure” in metric measure spaces. We show that if the metric probability space of the test instance is concentrated, any classifier with some initial constant error is inherently vulnerable to adversarial perturbations.

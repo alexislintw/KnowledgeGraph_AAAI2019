@@ -1,0 +1,4 @@
+Determining Solvability in the Birds of a Feather Card Game
+Shuto Araki@DePauw University,Juan Pablo Arenas Uribe@DePauw University,Zach Wilkerson@DePauw University,Steven Bogaerts@DePauw University,Chad Byers@DePauw University
+EAAI Symposium Papers: Technical Papers
+Birds of a Feather is a single-player card game in which cards are arranged in a grid. The player attempts to combine stacks of cards under certain rules, with the goal being to combine all cards into a single stack. This paper highlights several approaches for efficiently classifying whether a randomlychosen state has a single-stack solution. These approaches use graph theory and machine learning concepts to prune a state’s search space, resulting in significant reductions in runtime relative to a baseline search.

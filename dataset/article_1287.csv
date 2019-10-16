@@ -1,0 +1,4 @@
+Location-Based End-to-End Speech Recognition with Multiple Language Models
+Zhijie Lin@Zhejiang University,Kaiyang Lin@Sun Yat-sen University,Shiling Chen@Zhejiang University,Linlin Li@Alibaba Group Holding Company, Ltd.,Zhou Zhao@Zhejiang University
+Student Abstracts
+End-to-End deep learning approaches for Automatic Speech Recognition (ASR) has been a new trend. In those approaches, starting active in many areas, language model can be considered as an important and effective method for semantic error correction. Many existing systems use one language model. In this paper, however, multiple language models (LMs) are applied into decoding. One LM is used for selecting appropriate answers and others, considering both context and grammar, for further decision. Experiment on a general location-based dataset show the effectiveness of our method.

@@ -1,0 +1,4 @@
+Subspace Selection via DR-Submodular Maximization on Lattices
+So Nakashima@Tokyo University,Takanori Maehara@RIKEN AIP
+AAAI Technical Track: Machine Learning
+The subspace selection problem seeks a subspace that maximizes an objective function under some constraint. This problem includes several important machine learning problems such as the principal component analysis and sparse dictionary selection problem. Often, these problems can be (exactly or approximately) solved using greedy algorithms. Here, we are interested in why these problems can be solved by greedy algorithms, and what classes of objective functions and constraints admit this property.

@@ -1,0 +1,4 @@
+Learning Plackett-Luce Mixtures from Partial Preferences
+Ao Liu@Rensselaer Polytechnic Institute,Zhibing Zhao@Rensselaer Polytechnic Institute,Chao Liao@Shanghai University of Finance and Economics,Pinyan Lu@Shanghai University of Finance and Economics,Lirong Xia@Rensselaer Polytechnic Institute
+AAAI Technical Track: Machine Learning
+We propose an EM-based framework for learning Plackett-Luce model and its mixtures from partial orders. The core of our framework is the efficient sampling of linear extensions of partial orders under Plackett-Luce model. We propose two Markov Chain Monte Carlo (MCMC) samplers: Gibbs sampler and the generalized repeated insertion method tuned by MCMC (GRIM-MCMC), and prove the efficiency of GRIM-MCMC for a large class of preferences.

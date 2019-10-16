@@ -1,0 +1,4 @@
+SNR: Sub-Network Routing for Flexible Parameter Sharing in Multi-Task Learning
+Jiaqi Ma@University of Michigan,Zhe Zhao@Google Brain,Jilin Chen@Google Brain,Ang Li@Google DeepMind,Lichan Hong@Google AI,Ed H. Chi@Google AI
+AAAI Technical Track: AI and the Web
+Machine learning applications, such as object detection and content recommendation, often require training a single model to predict multiple targets at the same time. Multi-task learning through neural networks became popular recently, because it not only helps improve the accuracy of many prediction tasks when they are related, but also saves computation cost by sharing model architectures and low-level representations. The latter is critical for real-time large-scale machine learning systems.

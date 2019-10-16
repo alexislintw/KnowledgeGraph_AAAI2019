@@ -1,0 +1,4 @@
+Performance Guarantees for Homomorphisms beyond Markov Decision Processes
+Sultan Javed Majeed@Australian National University,Marcus Hutter@Australian National University
+AAAI Technical Track: Planning, Routing, and Scheduling
+Most real-world problems have huge state and/or action spaces. Therefore, a naive application of existing tabular solution methods is not tractable on such problems. Nonetheless, these solution methods are quite useful if an agent has access to a relatively small state-action space homomorphism of the true environment and near-optimal performance is guaranteed by the map. A plethora of research is focused on the case when the homomorphism is a Markovian representation of the underlying process. However, we show that nearoptimal performance is sometimes guaranteed even if the homomorphism is non-Markovian.

@@ -1,0 +1,4 @@
+Explainable Reasoning over Knowledge Graphs for Recommendation
+Xiang Wang@National University of Singapore,Dingxian Wang@eBay,Canran Xu@eBay,Xiangnan He@National University of Singapore,Yixin Cao@National University of Singapore,Tat-Seng Chua@National University of Singapore
+AAAI Technical Track: Machine Learning
+Incorporating knowledge graph into recommender systems has attracted increasing attention in recent years. By exploring the interlinks within a knowledge graph, the connectivity between users and items can be discovered as paths, which provide rich and complementary information to user-item interactions. Such connectivity not only reveals the semantics of entities and relations, but also helps to comprehend a user’s interest. However, existing efforts have not fully explored this connectivity to infer user preferences, especially in terms of modeling the sequential dependencies within and holistic semantics of a path.
