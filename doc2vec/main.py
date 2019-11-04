@@ -77,18 +77,25 @@ def main():
         plt.scatter(x=d2v_tsne[idx,0], y=d2v_tsne[idx,1], s=2)
     print('Finsih t-SNE, output to tsne.png')
     plt.savefig('tsne.png')
-    '''
+    
     ranks = []
     second_ranks = []
+    predict_sim = {}
     for i in range(len(papers)):
-        inferred_vector = model.infer_vector(tagged_docs[i].words)
-        sims = model.docvecs.most_similar([inferred_vector], topn=len(model.docvecs))
+        #inferred_vector = model.infer_vector(tagged_docs[i].words)
+        doc_vec = model.docvecs[i]
+        sims = model.docvecs.most_similar([doc_vec], topn=len(model.docvecs))
         rank = [docid for docid, sim in sims].index(i)
         ranks.append(rank)
-        second_ranks.append(sims[1])
-    inferred_vector = model.infer_vector(tagged_docs[0].words)
-    sims = model.docvecs.most_similar([inferred_vector], topn=len(model.docvecs))
-    '''
+        #second_ranks.append(sims[1])
+        top10 = sims[1:11]
+        predict_sim[papers[i]['title']] = []
+        for sim_idx in top10:
+            predict_sim[papers[i]['title']].append((papers[sim_idx[0]]['title'], sim_idx[1]))
+    json.dump(predict_sim, open('ranking.json','w')) 
+    #inferred_vector = model.infer_vector(tagged_docs[0].words)
+    #sims = model.docvecs.most_similar([inferred_vector], topn=len(model.docvecs))
+    
         
 
 if __name__ == '__main__':
